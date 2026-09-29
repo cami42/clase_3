@@ -1,0 +1,48 @@
+/* eastee es un documento */
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: beige;
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+    color: black;
+}
+h2 { 
+    font-size: 2em;
+    color: black;
+}
+h1, h2 {
+    text-transform: uppercase;
+}
+p {
+    font-size: 1.5em;
+    background-color: rgb(0, 174, 255);
+    color: black;
+}
+#pie {
+    letter-spacing: 1.5px;
+    text-decoration: overline;
+    font-style: oblique;
+    color: white;
+}
+.corazon {
+    text-indent: 1.5px;
+    font-weight: 400;
+    background-color: black;
+    color: aliceblue;
+}
+.importante {
+    background-color: rgb(92, 43, 226);
+}
+ol {
+    list-style: decimal-leading-zero;
+    list-style-position: inside !important;
+}
+main {
+    color: black;
+}
+th ¨{
+    color: white;
+    background-color: blue;
+}
